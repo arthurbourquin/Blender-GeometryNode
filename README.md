@@ -3,6 +3,8 @@
 A collection of useful Blender Geometry Node trees — some created by me, some by others.  
 Feel free to use them for learning or in your projects, but please **do not sell** them.
 
+![tohm](img/Togm.png)
+
 ## Features
 - Ready-to-use Geometry Node trees
 - Suitable for learning and experimentation
