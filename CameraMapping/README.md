@@ -26,16 +26,19 @@
 
 ### Adjust size (or width)
 - Divide by the **Camera Ratio**
+
 $$
 \text{Camera Ratio} = \frac{\text{Focal Length}}{\text{Sensor Size}}
 \quad;\quad
 \text{Sensor Size} = \text{Sensor Width}
 $$
+
 - Make sure **Sensor Size** is the **Sensor Width** in the Camera Settings, don't let to default value *Auto*
 
 ### Adjust ratio (or height)
 
 - Multiply the Y coordinate by the **Scene Ratio** (and X coordinate by 1)
+
 $$
 \text{Scene Ratio} = \frac{\text{Scene Width}}{\text{Scene Height}}
 $$
