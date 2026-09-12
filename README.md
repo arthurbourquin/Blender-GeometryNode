@@ -5,6 +5,13 @@ Feel free to use them for learning or in your projects, but please **do not sell
 
 ![tohm](img/Togm.png)
 
+## Projets
+
+- [SoccerBall](https://github.com/arthurbourquin/SoccerBall-GeometryNode)
+- [ParticleSystemA](https://github.com/arthurbourquin/ParticleSystemA-GeometryNode)
+- [CameraMapping](https://github.com/arthurbourquin/CameraMapping-GeometryNode)
+- [Simpler Deform](https://github.com/arthurbourquin/SimplerDeform-GeometryNode)
+
 ## Features
 - Ready-to-use Geometry Node trees
 - Suitable for learning and experimentation
